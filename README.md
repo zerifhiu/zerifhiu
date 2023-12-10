@@ -145,10 +145,6 @@
 <br>
 <br>
 
----
-
-<br>
-
 Credit: [zerifhiu](https://github.com/0xabdulkhalid)
 
 Last Edited on: 2023
